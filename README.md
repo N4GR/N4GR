@@ -1,16 +1,26 @@
-## Hi there 👋
+# N4GR
+My favourite pass time is messing around and finding out.
 
-<!--
-**N4GR/N4GR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+    "Name": "Morgan",
+    "Age": 23,
+    "POB": "England",
+    "Language": "en",
+    "Hobbies": [
+        "Gaming",
+        "Coding",
+        "Movies",
+        "Aquatics",
+        "Cowboy Builder" 
+    ],
+    "Qualifications": {
+        "Computer Science": 5,
+        "Games Design": 3,
+        "Welding": 2
+    } 
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [!NOTE]
+> This user might ask really stupid questions. 
