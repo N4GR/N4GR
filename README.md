@@ -12,7 +12,8 @@ My favourite pass time is messing around and finding out.
         "Coding",
         "Movies",
         "Aquatics",
-        "Cowboy Builder" 
+        "Cowboy Builder", 
+        "Electronic Tinkering"
     ],
     "Qualifications": {
         "Computer Science": 5,
