@@ -11,14 +11,13 @@
 
 <img align="right" height="200" src="https://avatars.githubusercontent.com/u/107074986?v=4"  />
 
-###
 ### Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python Icon"/>
-  <img />
   <img width="12" />
   <img />
   <img width="12" />
+  <img />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="HTML5 Icon"/>
   <img width="12" />
@@ -53,8 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="30" alt="Maya Icon"/>
   <img width="12" />
   <img />
-  <img />
   <img width="12" />
+  <img />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="30" alt="Photoshop Icon"/>
   <img width="12" />
@@ -64,12 +63,10 @@
   <img width="12" />
 </div>
 
-###
-
 <br clear="both">
+
+<img src="https://cataas.com/cat/says/N4GR?font=Impact&fontSize=30&fontColor=%23ffffff&fontBackground=none&type=square&position=center&width=200&height=200" height="200" alt="Cat Picture"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/N4GR/N4GR/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
