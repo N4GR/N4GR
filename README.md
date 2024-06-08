@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I’m Dablu, a Javascript, CSS and HTML Developer</h2>
+<h2 align="left">Hello</h2>
 
 ###
 
