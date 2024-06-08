@@ -29,6 +29,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DaBluLite/DaBluLite/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/N4GR/N4GR/output/snake.svg" alt="Snake animation" />
 
 ###
