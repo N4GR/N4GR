@@ -24,4 +24,6 @@ My favourite pass time is messing around and finding out.
 ```
 
 > [!NOTE]
-> This user might ask really stupid questions. 
+> This user might ask really stupid questions.
+
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
