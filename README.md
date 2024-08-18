@@ -17,7 +17,7 @@
   <img width="12" />
     <img />
   <img width="12" />
-  <a href="https://discord.gg/td2rJwcEkT"><img src="https://i.imgur.com/TQl3vpn.png" height="30" alt="Python Icon"/><a>
+  <a href="https://gamebanana.com/members/3379906"><img src="https://i.imgur.com/TQl3vpn.png" height="30" alt="Python Icon"/><a>
   <img width="12" />
     <img />
   <img width="12" />
@@ -34,7 +34,7 @@
 </div>
 
 <div align="left">
-  <a href="https://ko-fi.com/n4gr_"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea01_kofi_long_button_blue%25402x-p-500.png" height="30" alt="Python Icon"/><a>
+  <a href="https://ko-fi.com/n4gr"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea01_kofi_long_button_blue%25402x-p-500.png" height="30" alt="Python Icon"/><a>
   <img width="12" />
   <a href="https://paypal.me/n4gr"><img src="https://cdn.worldvectorlogo.com/logos/paypal-3.svg" height="30" alt="Python Icon"/><a>
   <img width="12" />
