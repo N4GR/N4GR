@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/107074986?v=4"  />
+<img align="right" height="200" src="https://n4gr.uk/images/avatar"  />
 <img align="right" src="https://cataas.com/cat/says/N4GR?font=Impact&fontSize=30&fontColor=%23ffffff&fontBackground=none&type=square&position=center&width=200&height=200" height="200" alt="Cat Picture"/>
 
 ### Links
