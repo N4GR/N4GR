@@ -6,7 +6,7 @@
 
 ### Links
 <div align="left">
-  <a href="https://discord.gg/XDXVZPM37p"><img src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" height="30" alt="Python Icon"/><a>
+  <a href="https://discord.gg/ZYdqSFbPxt"><img src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" height="30" alt="Python Icon"/><a>
   <img width="12" />
     <img />
   <img width="12" />
