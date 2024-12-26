@@ -1,11 +1,5 @@
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4GR&layout=donut&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="200" src="https://n4gr.uk/images/avatar"  />
 <img align="right" src="https://cataas.com/cat/says/N4GR?font=Impact&fontSize=30&fontColor=%23ffffff&fontBackground=none&type=square&position=center&width=200&height=200" height="200" alt="Cat Picture"/>
 
