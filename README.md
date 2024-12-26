@@ -1,5 +1,5 @@
 ###
-<div align = "center"><h1>N4GR</h1></div>
+<div align = "center"><h1>N4GR | Morgan</h1></div>
 
 <img align="right" height="200" src="https://n4gr.uk/images/avatar"  />
 <img align="right" src="https://cataas.com/cat/says/N4GR?font=Impact&fontSize=30&fontColor=%23ffffff&fontBackground=none&type=square&position=center&width=200&height=200" height="200" alt="Cat Picture"/>
