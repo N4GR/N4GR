@@ -1,37 +1,29 @@
 ###
-<div align = "center"><h1>N4GR | Morgan</h1></div>
+<div align = "center"><h1><a href = "https://n4gr.uk">N4GR</a> | Morgan</h1></div>
 
 <img align="right" height="200" src="https://n4gr.uk/images/avatar"  />
 <img align="right" src="https://cataas.com/cat/says/N4GR?font=Impact&fontSize=30&fontColor=%23ffffff&fontBackground=none&type=square&position=center&width=200&height=200" height="200" alt="Cat Picture"/>
 
 ### Links
 <div align="left">
-  <a href="https://discord.gg/ZYdqSFbPxt"><img src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" height="30" alt="Python Icon"/><a>
+<i class="bi bi-youtube"></i>
+  <a href="https://n4gr.uk/discord"><img src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" height="30" alt="Python Icon"/><a>
   <img width="12" />
     <img />
   <img width="12" />
     <img />
   <img width="12" />
-  <a href="https://gamebanana.com/members/3379906"><img src="https://i.imgur.com/TQl3vpn.png" height="30" alt="Python Icon"/><a>
+  <a href="https://n4gr.uk/gamebanana"><img src="https://i.imgur.com/TQl3vpn.png" height="30" alt="Python Icon"/><a>
   <img width="12" />
     <img />
   <img width="12" />
     <img />
   <img width="12" />
-  <a href="https://github.com/Vamptek"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" height="30" alt="Python Icon"/><a>
-  <img width="12" />
-    <img />
-  <img width="12" />
-    <img />
-  <img width="12" />
-  <a href="https://vamptek.com"><img src="https://i.imgur.com/UYWhmUA.png" height="30" alt="Python Icon"/><a>
-  <img width="12" />
+  <a href="https://n4gr.uk/youtube"><img src="https://cdn.iconscout.com/icon/free/png-256/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--social-media-70-flat-icons-color-pack-logos-432560.png" height="30" alt="YouTube Icon"/><a>
 </div>
 
 <div align="left">
-  <a href="https://ko-fi.com/n4gr"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea01_kofi_long_button_blue%25402x-p-500.png" height="30" alt="Python Icon"/><a>
-  <img width="12" />
-  <a href="https://paypal.me/n4gr"><img src="https://cdn.worldvectorlogo.com/logos/paypal-3.svg" height="30" alt="Python Icon"/><a>
+  <a href="https://n4gr.uk/ko-fi"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea01_kofi_long_button_blue%25402x-p-500.png" height="30" alt="Python Icon"/><a>
   <img width="12" />
 </div>
 
