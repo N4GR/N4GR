@@ -1,7 +1,7 @@
 ###
 <div align = "center"><h1><a href = "https://n4gr.uk">N4GR</a> | Morgan</h1></div>
 
-<img align="right" height="200" src="https://n4gr.uk/images/avatar"  />
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/107074986?v=4"  />
 <img align="right" src="https://cataas.com/cat/says/N4GR?font=Impact&fontSize=30&fontColor=%23ffffff&fontBackground=none&type=square&position=center&width=200&height=200" height="200" alt="Cat Picture"/>
 
 ### Links
@@ -12,13 +12,6 @@
     <img />
   <img width="12" />
     <img />
-  <img width="12" />
-  <a href="https://n4gr.uk/gamebanana"><img src="https://i.imgur.com/TQl3vpn.png" height="30" alt="Python Icon"/><a>
-  <img width="12" />
-    <img />
-  <img width="12" />
-    <img />
-  <img width="12" />
   <a href="https://n4gr.uk/youtube"><img src="https://cdn.iconscout.com/icon/free/png-256/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--social-media-70-flat-icons-color-pack-logos-432560.png" height="30" alt="YouTube Icon"/><a>
 </div>
 
