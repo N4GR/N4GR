@@ -50,10 +50,16 @@
   <img src = "data/images/os/fedora.svg" height = "30" alt = "Fedora Icon"/>
   <img src = "data/images/os/mint.svg" height = "30" alt = "Mint Icon"/>
   <img src = "data/images/os/kali.svg" height = "30" alt = "Kali Icon"/>
+  <img src = "data/images/os/ubuntu.svg" height = "30" alt = "Ubuntu Icon"/>
 </div>
 
 ###### Server Enviroment
-
+<div align = "left">
+  <img src = "data/images/os/windows.svg" height = "30" alt = "Windows Icon"/>
+  <img src = "data/images/os/debian.svg" height = "30" alt = "Debian Icon"/>
+  <img src = "data/images/os/ubuntu.svg" height = "30" alt = "Ubuntu Icon"/>
+  <img src = "data/images/os/proxmox.svg" height = "30" alt = "Proxmox Icon"/>
+</div>
 
 <br clear = "both">
 
