@@ -51,6 +51,7 @@
   <img src = "data/images/os/mint.svg" height = "30" alt = "Mint Icon"/>
   <img src = "data/images/os/kali.svg" height = "30" alt = "Kali Icon"/>
   <img src = "data/images/os/ubuntu.svg" height = "30" alt = "Ubuntu Icon"/>
+  <img src = "data/images/os/arch.svg" height = "30" alt = "Arch Icon"/>
 </div>
 
 ###### Server Enviroment
